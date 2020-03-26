@@ -1,1 +1,6 @@
+__pycache__/
 .env
+UNKNOWN.egg-info/
+build/
+dist/
+
